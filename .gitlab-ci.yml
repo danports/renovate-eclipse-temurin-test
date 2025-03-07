@@ -1,1 +1,1 @@
-image: eclipse-temurin:21.0.6_7-jdk-noble
+image: eclipse-temurin:21.0.6_7-jdk-noble@sha256:81eb35bebddbc3af193bb4c9346d480a2a7ae0f1ec10e54d675bc3ba936ac113
