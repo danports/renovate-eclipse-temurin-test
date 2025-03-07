@@ -3,6 +3,9 @@
     "extends": [
         "config:best-practices"
     ],
+    "ignorePresets": [
+        "workarounds:javaLTSVersions"
+    ],
     "packageRules": [
         {
             "matchDatasources": [
